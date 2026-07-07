@@ -12,3 +12,7 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Environment variables such as passwords
+.env
+.env.*
